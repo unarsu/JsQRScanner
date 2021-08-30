@@ -1,6 +1,6 @@
 [submodule "gwt-qrscanner"]
 	path = gwt-qrscanner
-	url = https://github.com/jbialobr/gwt-qrscanner.git
+	url = https://github.com/unarsu/gwt-qrscanner.git
 [submodule "gwt-exporter"]
 	path = gwt-exporter
 	url = https://github.com/jbialobr/gwt-exporter.git
