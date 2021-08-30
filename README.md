@@ -5,6 +5,8 @@ This library is based on the java implementation of the [zxing QR reader](https:
 The library is automaticaly compiled by GWT from the original source with [few modifications](https://github.com/jbialobr/gwt-qrscanner) made to work with the html canvas element.
 The export of the public api is made with the [gwt-exporter](https://github.com/manolo/gwt-exporter).
 
+Note: unarsu branch includes support for UPC-A that was commented out in jbialobr's original.
+
 # Live demo
 
 https://jbialobr.github.io/JsQRScanner/
